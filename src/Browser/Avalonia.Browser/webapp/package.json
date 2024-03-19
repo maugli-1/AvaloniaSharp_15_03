@@ -19,6 +19,6 @@
     "typescript": "^4.8.3"
   },
   "dependencies": {
-    "native-file-system-adapter": "github:jimmywarting/native-file-system-adapter#d43ad841581c2cc3ce47bbd1e8f11950ebdff027"
+    "native-file-system-adapter": "3.0.1"
   }
 }
